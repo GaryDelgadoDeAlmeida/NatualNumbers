@@ -1,0 +1,7 @@
+C:\Users\garya\Documents\Developpment\Application\C#\printNaturalNumbers\printNaturalNumbers\bin\Debug\printNaturalNumbers.exe.config
+C:\Users\garya\Documents\Developpment\Application\C#\printNaturalNumbers\printNaturalNumbers\bin\Debug\printNaturalNumbers.exe
+C:\Users\garya\Documents\Developpment\Application\C#\printNaturalNumbers\printNaturalNumbers\bin\Debug\printNaturalNumbers.pdb
+C:\Users\garya\Documents\Developpment\Application\C#\printNaturalNumbers\printNaturalNumbers\obj\Debug\printNaturalNumbers.csprojAssemblyReference.cache
+C:\Users\garya\Documents\Developpment\Application\C#\printNaturalNumbers\printNaturalNumbers\obj\Debug\printNaturalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\garya\Documents\Developpment\Application\C#\printNaturalNumbers\printNaturalNumbers\obj\Debug\printNaturalNumbers.exe
+C:\Users\garya\Documents\Developpment\Application\C#\printNaturalNumbers\printNaturalNumbers\obj\Debug\printNaturalNumbers.pdb
